@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Create Google Account</string>
+    <string name="create_your_google_account">Create Your Google Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">Username</string>
+    <string name="helper">You can use latters, numbers and periods.</string>
+    <string name="confirm">Confirm</string>
+    <string name="password">Password</string>
+    <string name="use_my_current_email_insted">Use my current email insted</string>
+    <string name="show_password">Show Password</string>
+    <string name="sign_in_instead">Sign in instead</string>
+    <string name="next">Next</string>
+</resources>
